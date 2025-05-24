@@ -38,7 +38,7 @@ Esse teste demonstrou a capacidade da plataforma em **compreender a fala, traduz
 
 🖼️ Captura de tela:
 
-![Reconhecimento de Fala](images/fala-ingles.png)
+![Conversa](images/conversa-ingles.png)
 
 ---
 
